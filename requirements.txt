@@ -1,8 +1,0 @@
-redis
-redisvl>=0.0.4
-langchain
-tiktoken
-openai
-unstructured[all-docs]
-pdf2image
-treon
