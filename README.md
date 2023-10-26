@@ -52,9 +52,14 @@ Each notebook explores these considerations, guiding you through making an infor
 - **Idle Disconnections**: Extended inactivity in Colab can disconnect the runtime, potentially resulting in work loss. Regular saving is your friend!
 
 ### Testing Notebooks (Not Required)
-For notebook tests, set your OpenAI API key and ensure Python requirements are met:
+For notebook tests, set your OpenAI API key and ensure the `treon` python library is installed:
 
 ```bash
 $ export OPENAI_API_KEY="..."
+$ pip install -U treon
+```
+
+Run Tests:
+```bash
 $ ./test-notebooks.sh
 ```
