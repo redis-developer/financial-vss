@@ -1,0 +1,6 @@
+"git+https://github.com/RedisVentures/redisvl.git@main"
+openai==0.28.1
+tiktoken
+langchain
+"unstructured[pdf]"
+sentence-transformers
