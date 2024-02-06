@@ -1,4 +1,4 @@
-"git+https://github.com/RedisVentures/redisvl.git@main"
+"git+https://github.com/RedisVentures/redisvl.git@readme-enhancements"
 openai==0.28.1
 tiktoken
 langchain
