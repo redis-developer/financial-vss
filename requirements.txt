@@ -1,6 +1,7 @@
-"git+https://github.com/RedisVentures/redisvl.git@readme-enhancements"
-openai==0.28.1
+git+https://github.com/RedisVentures/redisvl.git@readme-enhancement
+openai
 tiktoken
 langchain
-"unstructured[pdf]"
+unstructured[pdf]
 sentence-transformers
+pandas
