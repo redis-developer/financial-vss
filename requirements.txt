@@ -1,0 +1,7 @@
+git+https://github.com/RedisVentures/redisvl.git@readme-enhancement
+openai
+tiktoken
+langchain
+unstructured[pdf]
+sentence-transformers
+pandas
