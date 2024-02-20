@@ -16,7 +16,7 @@
 </div>
 
 
-*A detailed set of Google Colab notebooks to teach semantic search in Redis over public financial 10k documents with different Redis clients and integrations including: [redis-py](https://redis-py.readthedocs.io/en/stable/index.html), [redisvl](https://redisvl.com), and [langchain](https://python.langchain.com/docs/integrations/vectorstores/redis).*
+*A detailed set of Google Colab notebooks to teach semantic search and RAG patterns over public financial 10k documents with different Redis clients and integrations including: [redis-py](https://redis-py.readthedocs.io/en/stable/index.html), [redisvl](https://redisvl.com), and [langchain](https://python.langchain.com/docs/integrations/vectorstores/redis).*
 
 # ⚡ Introduction to Vector Search in Redis
 [Redis](https://redis.com), widely recognized for its low-latency performance, extends beyond traditional noSQL databases. It's uniquely suited for tasks like caching, session management, job queuing, and JSON storage. With enhanced Search+Query features, Redis emerges as a performant [Vector Database](https://redis.com/solutions/use-cases/vector-database) supporting Vector Search over unstructured data encoded as embeddings.
@@ -29,8 +29,8 @@ Select your desired notebook tutorial from below:
 
 | # | Notebook | Description | Documentation |
 |---|----------|-------------|---------------|
-| 1 | [**redis-py-01**](https://colab.research.google.com/github/Redislabs-Solution-Architects/financial-vss/blob/main/redis-py-01.ipynb) | Grasp VSS basics with the standard Redis client. | [View Docs](https://redis-py.readthedocs.io/en/stable/examples/search_vector_similarity_examples.html) |
-| 2 | [**redisvl-02**](https://colab.research.google.com/github/Redislabs-Solution-Architects/financial-vss/blob/main/redisvl-02.ipynb) | Dive deeper using a dedicated VSS client library. | [View Docs](https://redisvl.com) |
+| 1 | [**redis-py-01**](https://colab.research.google.com/github/Redislabs-Solution-Architects/financial-vss/blob/main/redis-py-01.ipynb) | Grasp VSS basics with the standard Redis Python client. | [View Docs](https://redis-py.readthedocs.io/en/stable/examples/search_vector_similarity_examples.html) |
+| 2 | [**redisvl-02**](https://colab.research.google.com/github/Redislabs-Solution-Architects/financial-vss/blob/main/redisvl-02.ipynb) | Dive deeper into RAG patterns from scratch using an AI-native Redis client library. | [View Docs](https://redisvl.com) |
 | 3 | [**langchain-03**](https://colab.research.google.com/github/Redislabs-Solution-Architects/financial-vss/blob/main/langchain-03.ipynb) | Wrap up with an integrated approach via LangChain. | [View Docs](https://python.langchain.com/docs/integrations/providers/redis) |
 
 
