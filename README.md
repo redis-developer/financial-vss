@@ -10,8 +10,8 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Language](https://img.shields.io/github/languages/top/Redislabs-Solution-Architects/financial-vss)
-![GitHub last commit](https://img.shields.io/github/last-commit/RedisVentures/RedisVL)
+![Language](https://img.shields.io/github/languages/top/redis-developer/financial-vss)
+![GitHub last commit](https://img.shields.io/github/last-commit/redis-developer/financial-vss)
 
 </div>
 
@@ -29,9 +29,9 @@ Select your desired notebook tutorial from below:
 
 | # | Notebook | Description | Documentation |
 |---|----------|-------------|---------------|
-| 1 | [**redis-py-01**](https://colab.research.google.com/github/Redislabs-Solution-Architects/financial-vss/blob/main/redis-py-01.ipynb) | Grasp VSS basics with the standard Redis Python client. | [View Docs](https://redis-py.readthedocs.io/en/stable/examples/search_vector_similarity_examples.html) |
-| 2 | [**redisvl-02**](https://colab.research.google.com/github/Redislabs-Solution-Architects/financial-vss/blob/main/redisvl-02.ipynb) | Dive deeper into RAG patterns from scratch using an AI-native Redis client library. | [View Docs](https://redisvl.com) |
-| 3 | [**langchain-03**](https://colab.research.google.com/github/Redislabs-Solution-Architects/financial-vss/blob/main/langchain-03.ipynb) | Wrap up with an integrated approach via LangChain. | [View Docs](https://python.langchain.com/docs/integrations/providers/redis) |
+| 1 | [**redis-py-01**](https://colab.research.google.com/github/redis-developer/financial-vss/blob/main/redis-py-01.ipynb) | Grasp VSS basics with the standard Redis Python client. | [View Docs](https://redis-py.readthedocs.io/en/stable/examples/search_vector_similarity_examples.html) |
+| 2 | [**redisvl-02**](https://colab.research.google.com/github/redis-developer/financial-vss/blob/main/redisvl-02.ipynb) | Dive deeper into RAG patterns from scratch using an AI-native Redis client library. | [View Docs](https://redisvl.com) |
+| 3 | [**langchain-03**](https://colab.research.google.com/github/redis-developer/financial-vss/blob/main/langchain-03.ipynb) | Wrap up with an integrated approach via LangChain. | [View Docs](https://python.langchain.com/docs/integrations/providers/redis) |
 
 
 ## 🛠️ Understanding the Client Ecosystem
